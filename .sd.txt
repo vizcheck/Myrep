@@ -1,0 +1,14 @@
+/sdcard/
+/sdcard/.sd.txt
+/sdcard/Pictures
+/sdcard/Pictures/Never Settle
+/sdcard/Pictures/Never Settle/Rhino.jpg
+/sdcard/Pictures/Never Settle/Wildebeest.jpg
+/sdcard/Pictures/Never Settle/Turtle.jpg
+/sdcard/Pictures/Never Settle/Salmon.jpg
+/sdcard/Pictures/Never Settle/Husky.jpg
+/sdcard/Pictures/Never Settle/Bee.jpg
+/sdcard/Pictures/Never Settle/Goose.jpg
+/sdcard/Pictures/Never Settle/Goat.jpg
+/sdcard/Movies
+/sdcard/Movies/Dolby Atmos Amaze.mp4
